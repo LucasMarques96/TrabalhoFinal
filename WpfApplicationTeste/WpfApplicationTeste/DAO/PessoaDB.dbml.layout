@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PessoaDB">
+  <DataContextMoniker Name="/PessoaDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6a336fb4-4a42-40ce-9d30-f18326d6e4d6" absoluteBounds="4, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/PessoaDBDataContext/Pessoas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="846512fd-97e4-43fb-ac54-a960c59c031b" absoluteBounds="4.015, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

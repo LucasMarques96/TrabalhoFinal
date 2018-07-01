@@ -1,0 +1,29 @@
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\bin\Debug\WpfApplicationTeste.exe.config
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\bin\Debug\WpfApplicationTeste.exe
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\bin\Debug\WpfApplicationTeste.pdb
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.csprojResolveAssemblyReference.cache
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\MainWindow.g.cs
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\App.g.cs
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste_MarkupCompile.cache
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste_MarkupCompile.lref
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\MainWindow.baml
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.g.resources
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.Properties.Resources.resources
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.csproj.GenerateResource.Cache
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.exe
+c:\users\maric\documents\visual studio 2015\Projects\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.pdb
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\App.g.cs
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste_MarkupCompile.cache
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste_MarkupCompile.lref
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.exe
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.pdb
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\bin\Debug\WpfApplicationTeste.exe.config
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\bin\Debug\WpfApplicationTeste.exe
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\bin\Debug\WpfApplicationTeste.pdb
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\MainWindow.baml
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.g.resources
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.Properties.Resources.resources
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\WpfApplicationTeste\WpfApplicationTeste\WpfApplicationTeste\obj\Debug\WpfApplicationTeste.csproj.CoreCompileInputs.cache
